@@ -5,8 +5,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Hello checking.");
-
         System.out.print("Enter the size of the circular queue : ");
         int size = scanner.nextInt();
 
